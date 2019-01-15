@@ -1,6 +1,10 @@
 .column {
   width: 300px;
   float: left;
+  margin: 12px;
+  border: 2px solid yellow;
+  padding: 4px;
+  background-color: pink;
 }
 
 img {
